@@ -1,6 +1,6 @@
 {
-    "name": "MiraiBypassD-Jukie",
-    "version": "1.2.14",
+    "name": "cypruspro21",
+    "version": "1.0.1",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
     "main": "mirai.js",
     "scripts": {
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/ppcat123"
     },
     "author": "D-Jukie",
     "license": "GPL-3.0",
